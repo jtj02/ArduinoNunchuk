@@ -1,5 +1,9 @@
 # ArduinoNunchuk
 
+Wii Nunchuck library for Arduino, forked from ```GabrielBianconi/ArduinoNunchuk```
+
+Original README.md from ```GabrielBianconi/ArduinoNunchuk``` follows:
+
 ## Introduction
 
 Improved Wii Nunchuk library for Arduino
