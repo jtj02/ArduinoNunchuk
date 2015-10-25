@@ -1,3 +1,4 @@
+Copyright (c) 2015, additions from John Judge
 Copyright (c) 2014, Gabriel Bianconi
 All rights reserved.
 
